@@ -1,6 +1,6 @@
 //
 //  Location+CoreDataClass.swift
-//  MyLocations
+//  MyLocations App
 //
 //  Created by Griffin Healy on 1/24/19.
 //  Copyright © 2019 Griffin Healy. All rights reserved.
